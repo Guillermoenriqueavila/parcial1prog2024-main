@@ -1,0 +1,17 @@
+.titulo{
+    background-color: aqua;
+    border-bottom: 3px;
+    border-color: solid black;
+}
+
+.descripcion{
+    background-color: beige;
+}
+
+.contenido{
+    background-color: red;
+}
+
+footer{
+    background-color:lightgreen;
+}
